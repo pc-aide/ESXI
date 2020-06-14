@@ -1,6 +1,6 @@
   # Intro
   
-  ## List commands
+  ## Commands
 
 ````Bash
 #https://imgur.com/EboJ5QA
