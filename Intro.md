@@ -7,3 +7,7 @@
 #Need Reboot: yes
 esxcfg-advcfg -s <hostname> /Misc/hostname
 ````
+
+````Bash
+reboot now
+````
