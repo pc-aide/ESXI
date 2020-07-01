@@ -9,5 +9,5 @@
 ##.\ESXi-Customizer-PS-v2.6.0.ps1
 
 ### Help
-* Usage: Esxi-customizer-ps [-izip]
+* Usage: Esxi-customizer-ps [-izip \<bundle\> [-updte]]
 * Args
