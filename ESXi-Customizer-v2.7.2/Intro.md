@@ -12,5 +12,7 @@
     * Add REM : if "!WinVer!" LSS "5.1" call :earlyFatal Unsupported Windows Version: !WinVer!. At least Windows XP is required & exit /b 1
 
 ## Usage
-1) ESXi-Customizer.cmd
-      a) 
+* ESXi-Customizer.cmd
+      * Select your ESXi.ISO
+      * Select your VIB file
+      * Select Working directory (O/P for new ISO with drivers NIC)
