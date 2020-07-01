@@ -13,7 +13,7 @@
 
 ## Usage
 * ESXi-Customizer.cmd
-      * Select your ESXi.ISO
-      * Select your VIB file
-      * Select Working directory (O/P for new ISO with drivers NIC)
+     * Select your ESXi.ISO
+     * Select your VIB file
+     * Select Working directory (O/P for new ISO with drivers NIC)
      * E.g: https://imgur.com/KCHAjCf
