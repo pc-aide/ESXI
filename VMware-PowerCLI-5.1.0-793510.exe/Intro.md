@@ -19,5 +19,7 @@ c:\progra~2\vmware\infrastructure\vsphere powerCLI\
 * Desktop\VMware vSphere PowerCLI.lnk
 
 ## cmdlet PowerCLI
+* Lastes version : 12.0.0
 * [Add-EsxSoftwareDepot https://hostupdate.vmware.com/software/VUM/PRODUCTION/main/vmw-depot-index.xml](https://imgur.com/T9TnPAm)
 * Get-PowerCLICommunity #open : https://communities.vmware.com/community/vmtn/automationtools/powercli
+* [Get-EsxImageProfile](https://imgur.com/Ew5vW2F)
