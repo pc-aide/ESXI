@@ -5,3 +5,4 @@
 * InstallShield
 * Prerequisite: .NET Framework 2.0
   * Enable-WindowsOptionalFeature -Online -FeatureName NetFx3
+  * [vmware VIX](https://imgur.com/bT5kKfR) -include into Installshield
