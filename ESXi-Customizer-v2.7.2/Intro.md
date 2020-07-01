@@ -10,3 +10,7 @@
 ## Correction Windows 10.0
 * Edit ESXi-Customizer.cmd
     * Add REM : if "!WinVer!" LSS "5.1" call :earlyFatal Unsupported Windows Version: !WinVer!. At least Windows XP is required & exit /b 1
+
+## Usage
+1) ESXi-Customizer.cmd
+      a) 
