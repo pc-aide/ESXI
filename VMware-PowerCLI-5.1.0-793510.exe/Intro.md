@@ -14,3 +14,6 @@ c:\progra~2\vmware\infrastructure\vsphere powerCLI\
 ## [New Shotcuts](https://imgur.com/ORDBxSe)
 * Desktop\VMware vSphere PowerCLI (32-Bit).lnk
 * Desktop\VMware vSphere PowerCLI.lnk
+
+## cmdlet PowerCLI
+* [Add-EsxSoftwareDepot https://hostupdate.vmware.com/software/VUM/PRODUCTION/main/vmw-depot-index.xml](https://imgur.com/T9TnPAm)
