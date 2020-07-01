@@ -20,3 +20,4 @@ c:\progra~2\vmware\infrastructure\vsphere powerCLI\
 
 ## cmdlet PowerCLI
 * [Add-EsxSoftwareDepot https://hostupdate.vmware.com/software/VUM/PRODUCTION/main/vmw-depot-index.xml](https://imgur.com/T9TnPAm)
+* Get-PowerCLICommunity #open : https://communities.vmware.com/community/vmtn/automationtools/powercli
