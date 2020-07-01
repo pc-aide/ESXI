@@ -7,6 +7,13 @@
 ## Doc
 * https://www.v-front.de/p/esxi-customizer.html
 
+## Out of Date
+End of Support notice
+
+The ESXi-Customizer tool is UNSUPPORTED as of Aug 21st 2015. Any known or new issues will not be fixed. For more information please read this blog post!
+
+You are welcome to use the successor of ESXi-Customizer: The ESXi-Customizer-PS PowerCLI script.
+
 ## Correction Windows 10.0
 * Edit ESXi-Customizer.cmd
     * Add REM : if "!WinVer!" LSS "5.1" call :earlyFatal Unsupported Windows Version: !WinVer!. At least Windows XP is required & exit /b 1
