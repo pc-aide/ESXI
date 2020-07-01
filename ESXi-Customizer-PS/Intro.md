@@ -8,6 +8,8 @@
 
 ## ESXi-Customizer-PS-v2.6.0.ps1
 
-### Help
-* Usage: Esxi-customizer-ps [-izip \<bundle\> [-update]]
-* Args
+### Modules
+* find-module -name vmware.powercli | install-module
+
+### Syntax
+* .\esxi-customizer-ps-v2.6.0.ps1
