@@ -9,3 +9,7 @@
 
 ## InstallDir
 c:\progra~2\vmware\infrastructure\vsphere powerCLI\
+
+## [New Shotcuts](https://imgur.com/ORDBxSe)
+* Desktop\VMware vSphere PowerCLI (32-Bit).lnk
+* Desktop\VMware vSphere PowerCLI.lnk
