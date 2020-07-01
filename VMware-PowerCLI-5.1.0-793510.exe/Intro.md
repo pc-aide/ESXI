@@ -23,4 +23,4 @@ c:\progra~2\vmware\infrastructure\vsphere powerCLI\
 * [Add-EsxSoftwareDepot https://hostupdate.vmware.com/software/VUM/PRODUCTION/main/vmw-depot-index.xml](https://imgur.com/T9TnPAm)
 * Get-PowerCLICommunity #open : https://communities.vmware.com/community/vmtn/automationtools/powercli
 * [Get-EsxImageProfile](https://imgur.com/Ew5vW2F)
- * [get-EsxImageProfile -Name "ESXi-7.0bs-16321839-standard" | fl * -force](https://imgur.com/dYY54WW)
+  * [get-EsxImageProfile -Name "ESXi-7.0bs-16321839-standard" | fl * -force](https://imgur.com/dYY54WW)
