@@ -10,9 +10,9 @@ esxcfg-advcfg -s <hostname> /Misc/hostname
 
 ````
 Bash
-#https://imgur.com/xvkcTwM
 esxcli network nic list
 ````
+[<img src="https://i.imgur.com/xvkcTwM.png">](https://i.imgur.com/xvkcTwM.png)
 
 ````Bash
 reboot now
