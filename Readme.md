@@ -3,10 +3,10 @@
   ## Commands
 
 ````Bash
-#https://imgur.com/EboJ5QA
 #Need Reboot: yes
 esxcfg-advcfg -s <hostname> /Misc/hostname
 ````
+[<img src="https://i.imgur.com/EboJ5QA.png">](https://i.imgur.com/EboJ5QA.png)
 
 ````
 Bash
